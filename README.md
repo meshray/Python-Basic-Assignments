@@ -62,7 +62,7 @@ Hello John Doe! Welcome to the Python program.
 3. Run the desired Python file:
    ```bash
    python Task1.py
-  Or
+   
    ```bash
    python Task2.py  
 
